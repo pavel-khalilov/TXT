@@ -1,0 +1,6 @@
+first_name - Pavel
+surname-Khalilov
+father's_name - Vital'evich
+age-38
+animals - none
+salary - $5000
