@@ -1,0 +1,7 @@
+skill_1-terminal
+skill_2-Github
+skill_3-json
+skill_4-Postman
+skill_5-xml
+skill_6-Charles Proxy
+skill_7-DevTools
