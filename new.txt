@@ -4,3 +4,4 @@ father's_name - Vital'evich
 age-38
 animals - none
 salary - $5000
+
